@@ -1,7 +1,5 @@
 # Samantha Nicole Olaco - Portfolio
 
-## Dark Luxury Portfolio Website
-
 A personal portfolio website built with React + Vite featuring a dark luxury theme with pink gradients and modern futuristic aesthetics.
 
 ## Tech Stack
@@ -102,7 +100,7 @@ Functional links to social platforms:
 
 ## Live URL
 
-[Portfolio Live Link] - *Deployed on Vercel*
+https://v0-samantha-nicole-olaco-portfolio.vercel.app/ - *Deployed on Vercel*
 
 ---
 
