@@ -28,6 +28,7 @@ export default function Navigation() {
         {/* Desktop Menu */}
         <div className="hidden md:flex gap-8 items-center">
           {[
+            { label: 'home', id: 'hero' },
             { label: 'about', id: 'about' },
             { label: 'portfolio', id: 'portfolio' },
             { label: 'contact', id: 'contact' },
@@ -55,6 +56,7 @@ export default function Navigation() {
       {isOpen && (
         <div className="md:hidden bg-background border-t border-border px-4 py-4 space-y-4">
           {[
+            { label: 'home', id: 'hero' },
             { label: 'about', id: 'about' },
             { label: 'portfolio', id: 'portfolio' },
             { label: 'contact', id: 'contact' },
