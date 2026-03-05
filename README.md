@@ -100,7 +100,7 @@ Functional links to social platforms:
 
 ## Live URL
 
-https://v0-samantha-nicole-olaco-portfolio.vercel.app/ - *Deployed on Vercel*
+https://oolaco-portfolio.vercel.app/ - *Deployed on Vercel*
 
 ---
 
